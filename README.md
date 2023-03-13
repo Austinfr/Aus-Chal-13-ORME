@@ -19,11 +19,14 @@ using sequelize as a way to model and work with data that is uploaded to a local
 
 This app should provide the following functionality
 
-- functionality for get requests: ![insomnia demo 1](./examples/13-orm-homework-demo-01.gif)
+Functionality for get requests: 
+![insomnia demo 1](./examples/13-orm-homework-demo-01.gif)
 
-- functionality for getting specific data: ![insomnia demo 1](./examples/13-orm-homework-demo-02.gif)
+Functionality for getting specific data: 
+![insomnia demo 1](./examples/13-orm-homework-demo-02.gif)
 
-- functionality for the post put and delete routes: ![insomnia demo 1](./examples/13-orm-homework-demo-03.gif)
+Functionality for the post put and delete routes: 
+![insomnia demo 1](./examples/13-orm-homework-demo-03.gif)
 
 ## Installation
 
@@ -35,7 +38,9 @@ After installing all the necessary software you can run, npm i, while in the loc
 
 ## Video
 
-Here is a link for a video walkthrough
+Here is a link for a video walkthrough:
+- [Week 13 challenge](https://drive.google.com/file/d/1b-9f8kLUAj0JP1wFryJtP7t0T3lCIPR5/view?usp=sharing)
+
 
 ## Contribution
 
